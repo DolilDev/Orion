@@ -4,6 +4,15 @@
 [![Beta](https://img.shields.io/badge/status-publiczna%20beta-f5b942?style=flat-square)](https://github.com/DolilDev/Orion/releases)
 [![Issues](https://img.shields.io/github/issues/DolilDev/Orion?style=flat-square)](https://github.com/DolilDev/Orion/issues)
 
+## Pobierz najnowszego Øriona
+
+[![Pobierz Ørion 0.20.0 beta 3](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%203-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.3)
+
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.3)**
+
+> Najnowsza wersja: **0.20.0 beta 3**. Poprzednie i techniczne wydania
+> rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
+
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
 Możesz pisać, mówić albo wywołać małe okno nad dowolną aplikacją skrótem
