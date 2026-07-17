@@ -6,11 +6,11 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 3](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%203-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.3)
+[![Pobierz Ørion 0.20.0 beta 4](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%204-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.4)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.3)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.4)**
 
-> Najnowsza wersja: **0.20.0 beta 3**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 4**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
@@ -48,6 +48,10 @@ rozmiar i sumę SHA-256, instaluje nową wersję bez zewnętrznego kreatora, a p
 uruchamia się ponownie. Instalator beta nie jest jeszcze podpisany certyfikatem,
 dlatego Windows SmartScreen może wyświetlić ostrzeżenie. Pobieraj pliki wyłącznie
 z oficjalnych wydań w tym repozytorium.
+
+Powiadomienie o dostępnej aktualizacji pozostaje na dzwonku aż do jej
+zainstalowania. W ostatniej sekcji Ustawień można również odinstalować Øriona,
+wybierając zachowanie wszystkich danych i kluczy albo ich całkowite usunięcie.
 
 ## Darmowe AI — co wybrać?
 
@@ -144,7 +148,7 @@ Przeszukaj moje PDF-y z folderu Studia i podaj źródło każdego wniosku.
 ```
 
 ```text
-Uruchom trzy terminale z Codexem i jeden z Claude Code w workspace Sprintly.
+Uruchom trzy agenty Pi korzystające z mojego zalogowanego Codexa w workspace Sprintly.
 ```
 
 ```text
@@ -179,9 +183,9 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | Multimedia | Odtwarzanie/pauza, następny, poprzedni i stop dla aktywnego odtwarzacza Windows | Wbudowane; bez logowania do Apple Music |
 | Okna i monitory | Lista okien i monitorów, fokus, minimalizacja, maksymalizacja, przywracanie, przenoszenie i zamykanie | Wbudowane |
 | Karty przeglądarki | Lista, aktywacja, zamykanie i przywracanie kart Chrome, Edge lub Brave przez tryb CDP | Wbudowane; pełna lista kart wymaga uruchomienia CDP |
-| Przypomnienia | Jednorazowe, codzienne, w wybrane dni, edycja, wyjątki na konkretny dzień i pominięte przypomnienia | Wbudowane; działają w tle |
+| Planer | Lokalne przypomnienia, wydarzenia i zadania w widokach miesiąca, tygodnia, dnia i listy; przeciąganie, skróty, cofanie oraz kolejka offline | Wbudowane; działa w tle |
 | Minutniki | Minutniki działające również po schowaniu aplikacji do zasobnika | Wbudowane |
-| Centrum powiadomień | Pominięte przypomnienia i wydarzenia, błędy integracji oraz informacje o aktualizacjach | Wbudowane |
+| Centrum powiadomień | Pominięte przypomnienia i wydarzenia, błędy integracji oraz trwałe informacje o oczekujących aktualizacjach | Wbudowane |
 | Deep Focus | Czasowe wyciszenie Øriona i ograniczenie rozpraszaczy z przywróceniem poprzedniego stanu | Wbudowane |
 | Nie przeszkadzać | Wstrzymanie wake word, TTS i wyskakujących powiadomień | Wbudowane |
 | Pamięć | Zapamiętywanie, wyszukiwanie i usuwanie faktów oraz jawny profil użytkownika | Wbudowane; lokalny zapis |
@@ -205,15 +209,17 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | Diagnostyka | Test Ollamy, modeli, mikrofonu, głośników, wake word, kluczy, integracji, aktualizacji i rozszerzeń | Wbudowane |
 | Samonaprawa | Uruchomienie Ollamy, instalacja po zgodzie i pobranie modelu po pokazaniu rozmiaru | Wbudowane; każda instalacja wymaga zgody |
 | Aktualizacje | Wykrywanie wersji beta, pobranie z postępem, SHA-256, cicha instalacja i automatyczny restart | Wbudowane; GitHub Releases |
+| Odinstalowanie | Usunięcie aplikacji z wyborem: zachowaj wszystkie dane i klucze albo usuń je całkowicie | Wbudowane; ostatnia sekcja Ustawień |
 | Rozszerzenia | Pobieranie paczki zweryfikowanej sumą SHA-256, kontrola manifestu, włączanie, wyłączanie i usuwanie | Wbudowany katalog rozszerzeń |
 | Praca w tle | Zasobnik systemowy, przypomnienia i monitory integracji bez otwartego głównego okna | Wbudowane |
+| Jedna instancja | Kolejne uruchomienie aktywuje działającego Øriona zamiast otwierać następny proces aplikacji | Wbudowane |
 | Autoprezentacja | Bezpieczny pokaz najważniejszych obszarów aplikacji bez wykonywania zmian | Wbudowane |
 
 ### Rozszerzenia
 
 | Rozszerzenie | Funkcje | Dane i wymagania |
 |---|---|---|
-| **ØrionCode** | Wiele terminali i agentów Codex/Claude Code, nazwy sesji, wspólny workspace, wysyłanie poleceń do konkretnego terminala | Lokalne procesy terminali; wymagane osobno zainstalowane narzędzia CLI |
+| **ØrionCode** | Wiele agentów Pi, nazwy sesji, wspólny workspace, odpinane panele i wysyłanie poleceń do konkretnego agenta | Lokalne Pi korzystające z zalogowanego Codexa; nie ma osobnego trybu PowerShell ani innych agentów |
 | **ØrionNotes** | Notatki, tagi, gwiazdki, wyszukiwanie, edycja głosem, notatka z dłuższej wypowiedzi i formatowanie przez AI | Dane lokalne; akcje dostępne również z głównego chatu |
 | **ØrionRhythm** | Cele dzienne i wielodniowe, kilka liczników naraz, check-iny, kalendarz, import danych, statystyki i panel Start | Dane lokalne; cele są oddzielone od zadań i przypomnień |
 | **ØrionFlow** | Rutyny opisane naturalnym językiem, podgląd kroków, próba bez zmian i wyzwalacze: czas, aplikacja, audio, lokalizacja, wiadomość, kalendarz lub głos | Każdy krok przechodzi przez uprawnienia i audyt |
