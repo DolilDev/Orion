@@ -6,21 +6,22 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 7](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%207-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.7)
+[![Pobierz Ørion 0.20.0 beta 8](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%208-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.8)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.7)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.8)**
 
-> Najnowsza wersja: **0.20.0 beta 7**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 8**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 7 poprawia formatowanie opisów aktualizacji: nagłówki, listy, pogrubienie
-i kod są renderowane w stylu aplikacji zamiast wyświetlać surowy Markdown.
-Zawiera też nowy znak z beta 6 i pełną integrację ikony z Windowsem.
+Beta 8 przebudowuje zakładkę Start pod codzienne korzystanie, dodaje kompletny
+jasny motyw i porządkuje szybkie okno. Chat lepiej współpracuje też z
+ØrionRhythm: rozpoznaje wykonanie aktywnych celów na podstawie ich rzeczywistych
+nazw, również w wiadomościach wysłanych z telefonu.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
 Możesz pisać, mówić albo wywołać małe okno nad dowolną aplikacją skrótem
-`Ctrl+Alt+Spacja`.
+`Shift+Alt+Spacja`. `Ctrl+Alt+Spacja` otwiera główne okno Øriona.
 
 To nie jest wyłącznie chatbot. Ørion potrafi wykonywać kontrolowane działania:
 otwierać aplikacje, zarządzać oknami i dźwiękiem, tworzyć przypomnienia,
