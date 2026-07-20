@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 8](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%208-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.8)
+[![Pobierz Ørion 0.20.0 beta 9](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%209-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.9)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.8)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.9)**
 
-> Najnowsza wersja: **0.20.0 beta 8**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 9**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 8 przebudowuje zakładkę Start pod codzienne korzystanie, dodaje kompletny
-jasny motyw i porządkuje szybkie okno. Chat lepiej współpracuje też z
-ØrionRhythm: rozpoznaje wykonanie aktywnych celów na podstawie ich rzeczywistych
-nazw, również w wiadomościach wysłanych z telefonu.
+Beta 9 naprawia uruchamianie po aktualizacji, gdy w profilu pozostała starsza
+paczka rozszerzenia. Niezgodne rozszerzenie zostaje teraz bezpiecznie wyłączone
+zamiast zatrzymywać całą aplikację, a ØrionRhythm 0.1.2 zawiera kompletne API
+warunkowych przypomnień wymagane przez aktualną wersję Øriona.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
