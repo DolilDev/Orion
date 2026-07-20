@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 10](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2010-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.10)
+[![Pobierz Ørion 0.20.0 beta 11](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2011-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.11)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.10)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.11)**
 
-> Najnowsza wersja: **0.20.0 beta 10**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 11**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 10 kończy naprawę uruchamiania po aktualizacji. Wymaga aktualnych paczek
-ØrionCode, ØrionNotes, ØrionRhythm i ØrionFlow, dzięki czemu stare rozszerzenie
-nie może zatrzymać całej aplikacji. Lokalne dane i konfiguracja użytkownika
-pozostają zachowane.
+Beta 11 naprawia zapisywanie wieloetapowych „skryptów pamięci” jako automatyzacji
+ØrionFlow. Rutyna może reagować na kilka podobnych komend głosowych i otwierać
+zestaw stron WWW, także gdy rozpoznawanie mowy pominie polskie znaki. Wydanie
+zawiera ØrionFlow 0.1.3.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
