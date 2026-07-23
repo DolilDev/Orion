@@ -6,18 +6,18 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 12](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2012-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.12)
+[![Pobierz Ørion 0.20.0 beta 13](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2013-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.13)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.12)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.13)**
 
-> Najnowsza wersja: **0.20.0 beta 12**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 13**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 12 dodaje strumieniowe odpowiedzi, stabilniejszą obsługę długich wiadomości,
-zapisywanie układu okien i dokładniejszy podgląd automatyzacji ØrionFlow. Poprawia
-harmonogramy ØrionRhythm oraz filtruje losowe halucynacje ciszy lokalnego Whispera.
-Nowa diagnostyka pokazuje, dlaczego ostatni segment mowy został przyjęty lub
-odrzucony, bez zapisywania nagrania.
+Beta 13 naprawia uruchamianie aplikacji po aktualizacji z zachowaną paczką
+ØrionRhythm 0.1.2. Loader sprawdza teraz wymagane API rozszerzenia przed importem,
+dzięki czemu niezgodna paczka nie może wyłączyć całego Øriona. Wydanie zawiera też
+zmiany beta 12: strumieniowe odpowiedzi, stabilniejsze długie wiadomości, zapis
+układu okien, dokładniejszy ØrionFlow oraz diagnostykę lokalnego rozpoznawania mowy.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
