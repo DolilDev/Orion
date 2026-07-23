@@ -6,18 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 13](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2013-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.13)
+[![Pobierz Ørion 0.20.0 beta 14](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2014-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.14)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.13)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.14)**
 
-> Najnowsza wersja: **0.20.0 beta 13**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 14**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 13 naprawia uruchamianie aplikacji po aktualizacji z zachowaną paczką
-ØrionRhythm 0.1.2. Loader sprawdza teraz wymagane API rozszerzenia przed importem,
-dzięki czemu niezgodna paczka nie może wyłączyć całego Øriona. Wydanie zawiera też
-zmiany beta 12: strumieniowe odpowiedzi, stabilniejsze długie wiadomości, zapis
-układu okien, dokładniejszy ØrionFlow oraz diagnostykę lokalnego rozpoznawania mowy.
+Beta 14 poprawia zapisywanie realizacji celów ØrionRhythm pod datą podaną w
+wiadomości. Polecenia z datami takimi jak `23 lipca`, `wczoraj`, `23.07.2026`
+czy `2026-07-23` trafiają teraz do właściwego dnia zamiast zawsze do dnia
+bieżącego. Mechanizm działa ogólnie dla dowolnych binarnych celów użytkownika.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
