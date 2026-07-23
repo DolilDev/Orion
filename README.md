@@ -6,17 +6,18 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 11](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2011-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.11)
+[![Pobierz Ørion 0.20.0 beta 12](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2012-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.12)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.11)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.12)**
 
-> Najnowsza wersja: **0.20.0 beta 11**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 12**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 11 naprawia zapisywanie wieloetapowych „skryptów pamięci” jako automatyzacji
-ØrionFlow. Rutyna może reagować na kilka podobnych komend głosowych i otwierać
-zestaw stron WWW, także gdy rozpoznawanie mowy pominie polskie znaki. Wydanie
-zawiera ØrionFlow 0.1.3.
+Beta 12 dodaje strumieniowe odpowiedzi, stabilniejszą obsługę długich wiadomości,
+zapisywanie układu okien i dokładniejszy podgląd automatyzacji ØrionFlow. Poprawia
+harmonogramy ØrionRhythm oraz filtruje losowe halucynacje ciszy lokalnego Whispera.
+Nowa diagnostyka pokazuje, dlaczego ostatni segment mowy został przyjęty lub
+odrzucony, bez zapisywania nagrania.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
@@ -211,7 +212,7 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | SoundCloud | Wyszukiwanie odtwarzalnych utworów | Opcjonalne OAuth |
 | Leki | Lista leków, dawki, harmonogramy i historia przyjęcia | Wbudowane; dane lokalne |
 | Pogoda | Bieżące warunki i prognoza dla podanej lub zapisanej lokalizacji | Wbudowane; wymaga internetu |
-| Diagnostyka | Test Ollamy, modeli, mikrofonu, głośników, wake word, kluczy, integracji, aktualizacji i rozszerzeń | Wbudowane |
+| Diagnostyka | Test Ollamy, modeli, mikrofonu, głośników, wake word, ostatnich decyzji lokalnego STT, kluczy, integracji, aktualizacji i rozszerzeń | Wbudowane |
 | Samonaprawa | Uruchomienie Ollamy, instalacja po zgodzie i pobranie modelu po pokazaniu rozmiaru | Wbudowane; każda instalacja wymaga zgody |
 | Aktualizacje | Wykrywanie wersji beta, pobranie z postępem, SHA-256, cicha instalacja i automatyczny restart | Wbudowane; GitHub Releases |
 | Odinstalowanie | Usunięcie aplikacji z wyborem: zachowaj wszystkie dane i klucze albo usuń je całkowicie | Wbudowane; ostatnia sekcja Ustawień |
