@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 14](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2014-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.14)
+[![Pobierz Ørion 0.20.0 beta 15](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2015-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.15)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.14)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.15)**
 
-> Najnowsza wersja: **0.20.0 beta 14**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 15**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 14 poprawia zapisywanie realizacji celów ØrionRhythm pod datą podaną w
-wiadomości. Polecenia z datami takimi jak `23 lipca`, `wczoraj`, `23.07.2026`
-czy `2026-07-23` trafiają teraz do właściwego dnia zamiast zawsze do dnia
-bieżącego. Mechanizm działa ogólnie dla dowolnych binarnych celów użytkownika.
+Beta 15 poprawia ręczne nagrywanie i wykrywanie hasła „Ørion” na cichych
+mikrofonach USB oraz zestawach słuchawkowych. Próg mowy dopasowuje się teraz do
+szumu konkretnego urządzenia, a cichy sygnał otrzymuje ograniczone wzmocnienie
+przed lokalnym modelem wake worda. Nagrania nadal nie są zachowywane.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
