@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 15](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2015-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.15)
+[![Pobierz Ørion 0.20.0 beta 16](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2016-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.16)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.15)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.16)**
 
-> Najnowsza wersja: **0.20.0 beta 15**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 16**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 15 poprawia ręczne nagrywanie i wykrywanie hasła „Ørion” na cichych
-mikrofonach USB oraz zestawach słuchawkowych. Próg mowy dopasowuje się teraz do
-szumu konkretnego urządzenia, a cichy sygnał otrzymuje ograniczone wzmocnienie
-przed lokalnym modelem wake worda. Nagrania nadal nie są zachowywane.
+Beta 16 poprawia naturalne polecenia odtwarzania muzyki w kontekście Spotify
+oraz pytania o pogodę na konkretną godzinę. Ørion potrafi teraz wykorzystać
+poprzednią wiadomość przy dopowiedzeniu „odpal jeszcze muzykę”, a Open-Meteo
+zwraca temperaturę, opady, wiatr i warunki dokładnie dla wskazanej godziny.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
@@ -210,7 +210,7 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | Spotify | Wyszukiwanie utworów i sterowanie aktywnym odtwarzaczem | Opcjonalne OAuth; część funkcji może wymagać Spotify Premium |
 | SoundCloud | Wyszukiwanie odtwarzalnych utworów | Opcjonalne OAuth |
 | Leki | Lista leków, dawki, harmonogramy i historia przyjęcia | Wbudowane; dane lokalne |
-| Pogoda | Bieżące warunki i prognoza dla podanej lub zapisanej lokalizacji | Wbudowane; wymaga internetu |
+| Pogoda | Bieżące warunki oraz prognoza dzienna i godzinowa dla podanej lub zapisanej lokalizacji | Wbudowane; wymaga internetu |
 | Diagnostyka | Test Ollamy, modeli, mikrofonu, głośników, wake word, ostatnich decyzji lokalnego STT, kluczy, integracji, aktualizacji i rozszerzeń | Wbudowane |
 | Samonaprawa | Uruchomienie Ollamy, instalacja po zgodzie i pobranie modelu po pokazaniu rozmiaru | Wbudowane; każda instalacja wymaga zgody |
 | Aktualizacje | Wykrywanie wersji beta, pobranie z postępem, SHA-256, cicha instalacja i automatyczny restart | Wbudowane; GitHub Releases |
