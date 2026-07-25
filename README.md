@@ -6,18 +6,18 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 17](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2017-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.17)
+[![Pobierz Ørion 0.20.0 beta 18](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2018-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.18)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.17)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.18)**
 
-> Najnowsza wersja: **0.20.0 beta 17**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 18**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 17 skupia się na niezawodności. Dodaje zweryfikowane kopie i przywracanie
-danych, tryb awaryjny po nieudanych startach, kontrolę integralności lokalnych
-plików, bezpieczny eksport diagnostyki oraz lokalny dashboard jakości. ØrionFlow
-otrzymał edycję, wersjonowanie i rollback, a integracja Windows nowe, jawnie
-potwierdzane akcje notatki, zadania i pełnego skupienia.
+Beta 18 dodaje opcjonalne automatyczne aktualizacje. Ørion weryfikuje instalator,
+tworzy kopię danych i czeka z restartem na zakończenie rozmowy, nagrywania lub
+edycji wiadomości. Przy pierwszym uruchomieniu aplikacja prowadzi od razu do
+rozmowy, w której można włączyć albo pozostawić wyłączone automatyczne wydania
+beta; decyzję da się później zmienić w Ustawieniach.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
@@ -49,9 +49,10 @@ Wymagania:
 - klucz API wybranego dostawcy albo uruchomiona lokalnie Ollama;
 - mikrofon tylko wtedy, gdy chcesz korzystać z głosu lub ØrionMeet.
 
-Aktualizacje są pobierane i weryfikowane wewnątrz Øriona. Aplikacja sprawdza
-rozmiar i sumę SHA-256, instaluje nową wersję bez zewnętrznego kreatora, a potem
-uruchamia się ponownie. Instalator beta nie jest jeszcze podpisany certyfikatem,
+Aktualizacje są pobierane i weryfikowane wewnątrz Øriona. Opcjonalny automat
+sprawdza rozmiar i sumę SHA-256, tworzy kopię danych, instaluje nową wersję
+w bezpiecznym momencie, a potem uruchamia aplikację ponownie. Instalator beta
+nie jest jeszcze podpisany certyfikatem,
 dlatego Windows SmartScreen może wyświetlić ostrzeżenie. Pobieraj pliki wyłącznie
 z oficjalnych wydań w tym repozytorium.
 
@@ -214,7 +215,7 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | Pogoda | Bieżące warunki oraz prognoza dzienna i godzinowa dla podanej lub zapisanej lokalizacji | Wbudowane; wymaga internetu |
 | Diagnostyka | Test Ollamy, modeli, mikrofonu, głośników, wake word, ostatnich decyzji lokalnego STT, kluczy, integracji, aktualizacji i rozszerzeń | Wbudowane |
 | Samonaprawa | Uruchomienie Ollamy, instalacja po zgodzie i pobranie modelu po pokazaniu rozmiaru | Wbudowane; każda instalacja wymaga zgody |
-| Aktualizacje | Wykrywanie wersji beta, pobranie z postępem, SHA-256, cicha instalacja i automatyczny restart | Wbudowane; GitHub Releases |
+| Aktualizacje | Ręczne lub automatyczne wykrywanie wersji beta, pobranie z postępem, SHA-256, backup, bezpieczne odroczenie instalacji i restart | Wbudowane; GitHub Releases |
 | Odinstalowanie | Usunięcie aplikacji z wyborem: zachowaj wszystkie dane i klucze albo usuń je całkowicie | Wbudowane; ostatnia sekcja Ustawień |
 | Rozszerzenia | Pobieranie paczki zweryfikowanej sumą SHA-256, kontrola manifestu, włączanie, wyłączanie i usuwanie | Wbudowany katalog rozszerzeń |
 | Praca w tle | Zasobnik systemowy, przypomnienia i monitory integracji bez otwartego głównego okna | Wbudowane |
