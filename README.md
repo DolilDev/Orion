@@ -6,18 +6,18 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 18](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2018-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.18)
+[![Pobierz Ørion 0.20.0 beta 19](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2019-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.19)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.18)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.19)**
 
-> Najnowsza wersja: **0.20.0 beta 18**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 19**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 18 dodaje opcjonalne automatyczne aktualizacje. Ørion weryfikuje instalator,
-tworzy kopię danych i czeka z restartem na zakończenie rozmowy, nagrywania lub
-edycji wiadomości. Przy pierwszym uruchomieniu aplikacja prowadzi od razu do
-rozmowy, w której można włączyć albo pozostawić wyłączone automatyczne wydania
-beta; decyzję da się później zmienić w Ustawieniach.
+Beta 19 rozbudowuje Update Center o kanały beta/stable, wybór momentu instalacji,
+historię i przywracanie danych sprzed aktualizacji. Dodaje Orion Doctor,
+konwersacyjny test „czy wszystko działa?”, bezpieczne paczki zgłoszeń, centrum
+cofania wybranych akcji oraz opcjonalną proaktywność z dziennym limitem.
+Diagnostyka i sugestie nie uruchamiają automatycznych napraw ani zmian.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
@@ -202,7 +202,7 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | Wielu dostawców AI | Groq, NVIDIA NIM, Ollama, Google Gemini, OpenRouter, OpenAI, Anthropic, xAI, Mistral AI i DeepSeek | Wbudowane; zależnie od dostawcy wymagany klucz |
 | Uprawnienia | Dla każdej akcji: zawsze pozwalaj, pytaj przed użyciem albo zablokuj | Wbudowane |
 | Podgląd działania | Przed ryzykowną operacją Ørion pokazuje nazwę akcji i jej argumenty | Wbudowane |
-| Cofanie | Cofnięcie ostatniej jawnie odwracalnej operacji, m.in. zmian w ØrionNotes i wybranych danych rozszerzeń | Wbudowane; tylko dla operacji z bezpieczną akcją odwrotną |
+| Cofanie | Centrum odwracalnych operacji z bieżącej sesji i cofnięcie wybranego wpisu, m.in. zmian w ØrionNotes i danych rozszerzeń | Wbudowane; tylko dla operacji z bezpieczną akcją odwrotną |
 | Historia aktywności | Rejestr wykonanych, odrzuconych i błędnych akcji wraz z rezultatem | Wbudowane; lokalna baza |
 | Operacje systemowe | Przygotowanie restartu, wyłączenia lub wylogowania z osobnym etapem potwierdzenia | Wbudowane; zawsze wymaga potwierdzenia |
 | Lokalna wiedza | Indeks wybranych folderów, PDF-ów, dokumentów, plików tekstowych i notatek; odpowiedzi ze źródłami | Wbudowane; konfiguracja przez chat |
@@ -213,9 +213,10 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | SoundCloud | Wyszukiwanie odtwarzalnych utworów | Opcjonalne OAuth |
 | Leki | Lista leków, dawki, harmonogramy i historia przyjęcia | Wbudowane; dane lokalne |
 | Pogoda | Bieżące warunki oraz prognoza dzienna i godzinowa dla podanej lub zapisanej lokalizacji | Wbudowane; wymaga internetu |
-| Diagnostyka | Test Ollamy, modeli, mikrofonu, głośników, wake word, ostatnich decyzji lokalnego STT, kluczy, integracji, aktualizacji i rozszerzeń | Wbudowane |
+| Orion Doctor | Test kondycji Ollamy, modeli, dźwięku, głosu, kluczy, integracji, aktualizacji, rozszerzeń i danych; dostępny również przez pytanie „czy wszystko działa?” | Wbudowane; test tylko do odczytu |
 | Samonaprawa | Uruchomienie Ollamy, instalacja po zgodzie i pobranie modelu po pokazaniu rozmiaru | Wbudowane; każda instalacja wymaga zgody |
-| Aktualizacje | Ręczne lub automatyczne wykrywanie wersji beta, pobranie z postępem, SHA-256, backup, bezpieczne odroczenie instalacji i restart | Wbudowane; GitHub Releases |
+| Aktualizacje | Kanały beta/stable, ręczne lub automatyczne pobieranie, SHA-256, harmonogram instalacji, zweryfikowany backup, historia i przywracanie danych | Wbudowane; GitHub Releases |
+| Kontrolowana proaktywność | Lokalne sugestie ważnych spraw z regulowanym dziennym limitem, bez wykonywania działań | Opcjonalna; domyślnie wyłączona |
 | Odinstalowanie | Usunięcie aplikacji z wyborem: zachowaj wszystkie dane i klucze albo usuń je całkowicie | Wbudowane; ostatnia sekcja Ustawień |
 | Rozszerzenia | Pobieranie paczki zweryfikowanej sumą SHA-256, kontrola manifestu, włączanie, wyłączanie i usuwanie | Wbudowany katalog rozszerzeń |
 | Praca w tle | Zasobnik systemowy, przypomnienia i monitory integracji bez otwartego głównego okna | Wbudowane |
@@ -254,8 +255,10 @@ w przypadku rozszerzeń — zawartość manifestu i sumy poszczególnych plików
 
 ## Zgłaszanie błędów i pomysłów
 
-Utwórz zgłoszenie w [GitHub Issues](https://github.com/DolilDev/Orion/issues/new).
-Podaj:
+W Orion Doctor wybierz **Zgłoś problem**, aby utworzyć lokalną paczkę z
+opcjonalnymi logami po usunięciu sekretów i otworzyć gotowy, jeszcze niewysłany
+formularz. Możesz też przejść bezpośrednio do
+[GitHub Issues](https://github.com/DolilDev/Orion/issues/new). Podaj:
 
 - wersję Øriona i Windows;
 - kroki prowadzące do problemu;
