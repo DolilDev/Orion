@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 22](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2022-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.22)
+[![Pobierz Ørion 0.20.0 beta 23](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2023-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.23)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.22)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.23)**
 
-> Najnowsza wersja: **0.20.0 beta 22**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 23**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 22 wzmacnia kopie danych tworzone przed aktualizacją: pomija cache i
-krótkotrwałe pliki, archiwizuje każdy plik ze spójnego odczytu i nie unieważnia
-poprawnej nowej kopii, gdy nie uda się usunąć starszej. Instalator nadal
-uruchamia się dopiero po utworzeniu i zweryfikowaniu kopii.
+Beta 23 wycofuje niezabezpieczony most telefonu HTTP/LAN, ogranicza parowanie do
+jednorazowego kodu QR, hashuje krótkotrwały stan anty-replay i automatycznie
+usuwa pozostawione pliki syntezy oraz rozpoznawania mowy. Połączenie telefonu
+przez Relay nadal przenosi wyłącznie zaszyfrowane treści.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
