@@ -6,17 +6,16 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 20](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2020-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.20)
+[![Pobierz Ørion 0.20.0 beta 21](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2021-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.21)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.20)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.21)**
 
-> Najnowsza wersja: **0.20.0 beta 20**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 21**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 20 upraszcza ustawienia aktualizacji, delikatnie rozjaśnia całe tło
-aplikacji wraz z panelem bocznym i ujednolica paletę ciemnego oraz jasnego
-motywu. Automatyczne aktualizacje, wybór momentu instalacji, historia i
-przywracanie danych pozostają dostępne bez zmian.
+Beta 21 dodaje ØrionInbox do szybkiego przechwytywania myśli i zadań, lokalny
+przegląd tygodnia oraz bezpieczne, ustrukturyzowane przepływy Vision i Research.
+Każdy zapis lub działanie nadal wymaga świadomego zatwierdzenia użytkownika.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
