@@ -6,17 +6,16 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 29](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2029-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.29)
+[![Pobierz Ørion 0.20.0 beta 30](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2030-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.30)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.29)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.30)**
 
-> Najnowsza wersja: **0.20.0 beta 29**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 30**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 29 upraszcza ekran startowy: usuwa zbędny nagłówek szybkich działań i
-zastępuje kafelek Inbox bezpośrednim przejściem do Rozszerzeń. Procedura wydania
-ma też izolowany test instalatora, który nie zmienia skrótów, autostartu ani
-wpisów deinstalatora prawdziwej instalacji.
+Beta 30 przywraca klikalne zakładki Planera, pokazuje dokładny stan wybranego
+dnia w ØrionRhythm i chroni zaliczenia zapisane pod innymi datami. Kafelki
+Integracji w dwukolumnowych rzędach mają teraz również jednakową szerokość.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
