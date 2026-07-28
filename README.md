@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 25](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2025-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.25)
+[![Pobierz Ørion 0.20.0 beta 26](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2026-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.26)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.25)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.26)**
 
-> Najnowsza wersja: **0.20.0 beta 25**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 26**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 25 pozwala natychmiast zatrzymać mowę Øriona w rozmowie lub z zasobnika
-systemowego, także podczas odczytywania powiadomień. Mobilne menu nie zmniejsza
-się już przy przewijaniu, a anulowanie odpowiedzi z telefonu poprawnie kończy
-stan oczekiwania i ignoruje spóźniony wynik modelu.
+Beta 26 automatycznie usuwa zużyte instalatory aktualizacji, paczki rozszerzeń,
+stare logi i raporty diagnostyczne. Ogranicza też pamięć załączników oraz historii
+rozmowy, współdzieli cache modeli między wersją instalowaną i developerską, a
+nieużywane warianty modeli usuwa bez naruszania aktywnej konfiguracji.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
