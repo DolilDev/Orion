@@ -6,16 +6,16 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 33](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2033-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.33)
+[![Pobierz Ørion 0.20.0 beta 34](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2034-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.34)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.33)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.34)**
 
-> Najnowsza wersja: **0.20.0 beta 33**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 34**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 33 dopracowuje kontrolki głównego okna: obramowania są widoczne na każdej
-krawędzi, ikony mają kompletne kształty, a plakietka powiadomień mieści się w
-całości wewnątrz przycisku.
+Beta 34 lepiej rozpoznaje naturalnie opisane przyszłe plany. Spotkania, wizyty,
+treningi, przejazdy i zajęcia z konkretnym terminem trafiają do Planera zamiast
+do dziennika wykonanych aktywności ØrionRhythm.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
