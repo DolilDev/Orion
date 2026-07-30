@@ -6,16 +6,16 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 37](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2037-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.37)
+[![Pobierz Ørion 0.20.0 beta 38](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2038-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.38)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.37)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.38)**
 
-> Najnowsza wersja: **0.20.0 beta 37**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 38**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 37 uruchamia połączenie ze Spotify bez ręcznej konfiguracji Client ID.
-Komunikaty OAuth są teraz pokazywane od razu nad kartami integracji, więc kliknięcie
-przycisku zawsze daje widoczną odpowiedź.
+Beta 38 pokazuje nazwę profilu Spotify zamiast adresu e-mail i automatycznie
+odświeża ją dla istniejących połączeń. Po połączeniu konta znika również zbędny
+przycisk **Połącz konto**.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
