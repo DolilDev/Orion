@@ -6,15 +6,15 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 40](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2040-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.40)
+[![Pobierz Ørion 0.20.0 beta 41](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2041-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.41)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.40)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.41)**
 
-> Najnowsza wersja: **0.20.0 beta 40**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 41**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 40 naprawia start aplikacji po aktualizacji, dodaje automatyczny powrót do
-poprzedniej działającej wersji oraz gotowe scenariusze na ekranie Start.
+Beta 41 poprawia otwieranie wyniku scenariusza „Podsumuj tydzień”: link prowadzi
+teraz do przeglądu tygodnia w Planerze zamiast do ostatnio używanej notatki.
 Aktualizacja zachowuje dotychczasowe ustawienia i dane użytkownika.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
