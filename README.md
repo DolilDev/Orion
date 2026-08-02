@@ -6,16 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 41](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2041-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.41)
+[![Pobierz Ørion 0.20.0 beta 42](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2042-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.42)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.41)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.42)**
 
-> Najnowsza wersja: **0.20.0 beta 41**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 42**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 41 poprawia otwieranie wyniku scenariusza „Podsumuj tydzień”: link prowadzi
-teraz do przeglądu tygodnia w Planerze zamiast do ostatnio używanej notatki.
-Aktualizacja zachowuje dotychczasowe ustawienia i dane użytkownika.
+Beta 42 rozwija ØrionCode: terminale zachowują pozycję i obsługują wyszukiwanie,
+agenci wznawiają własne sesje Pi, a po turze można zobaczyć różnice, wynik testów
+i bezpiecznie cofnąć zmiany. Aktualizacja zachowuje dotychczasowe ustawienia i
+dane użytkownika.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
