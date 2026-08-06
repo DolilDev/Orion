@@ -6,16 +6,16 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 46](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2046-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.46)
+[![Pobierz Ørion 0.20.0 beta 47](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2047-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.47)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.46)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.47)**
 
-> Najnowsza wersja: **0.20.0 beta 46**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 47**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 46 naprawia zapisywanie realizacji celu ØrionRhythm z naturalnych poleceń.
-Jednoznaczna wiadomość z typowymi literówkami faktycznie zalicza pasujący cel,
-a jego karta i podsumowanie od razu pokazują nowy stan.
+Beta 47 dodaje globalne wyszukiwanie w Plannerze, Inboxie, ØrionNotes,
+ØrionMeet i lokalnej bazie wiedzy. Skrót `Ctrl+K` można zmienić w Ustawieniach,
+a Planner proponuje teraz wolne okna rozpoczynające się od pełnego kwadransa.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
