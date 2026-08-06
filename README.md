@@ -6,16 +6,18 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 47](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2047-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.47)
+[![Pobierz Ørion 0.20.0 beta 48](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2048-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.48)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.47)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.48)**
 
-> Najnowsza wersja: **0.20.0 beta 47**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 48**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 47 dodaje globalne wyszukiwanie w Plannerze, Inboxie, ØrionNotes,
-ØrionMeet i lokalnej bazie wiedzy. Skrót `Ctrl+K` można zmienić w Ustawieniach,
-a Planner proponuje teraz wolne okna rozpoczynające się od pełnego kwadransa.
+Beta 48 wprowadza naprawdę osobne rozszerzenia: Ørion zna ich możliwości przed
+instalacją, ale pobiera kod i udostępnia funkcje dopiero po jej rozpoczęciu.
+Pierwsza instalacja nie wymaga restartu. Krótkie odpowiedzi na przypomnienia
+ØrionRhythm, takie jak „wziąłem” lub „oba”, prawidłowo odnoszą się teraz do
+wymienionych celów.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
@@ -216,7 +218,7 @@ Gdy podłączę słuchawki, włącz Deep Focus, ustaw głośność na 30% i otw�
 | Aktualizacje | Ręczne lub automatyczne pobieranie, SHA-256, harmonogram instalacji, zweryfikowany backup, historia i przywracanie danych | Wbudowane; GitHub Releases |
 | Kontrolowana proaktywność | Lokalne sugestie ważnych spraw z regulowanym dziennym limitem, bez wykonywania działań | Opcjonalna; domyślnie wyłączona |
 | Odinstalowanie | Usunięcie aplikacji z wyborem: zachowaj wszystkie dane i klucze albo usuń je całkowicie | Wbudowane; ostatnia sekcja Ustawień |
-| Rozszerzenia | Pobieranie paczki zweryfikowanej sumą SHA-256, kontrola manifestu, włączanie, wyłączanie i usuwanie | Wbudowany katalog rozszerzeń |
+| Rozszerzenia | Katalog możliwości, pobieranie osobnej paczki zweryfikowanej sumą SHA-256, kontrola manifestu, włączanie, wyłączanie i usuwanie | Funkcje są pobierane dopiero podczas instalacji |
 | Praca w tle | Zasobnik systemowy, przypomnienia i monitory integracji bez otwartego głównego okna | Wbudowane |
 | Jedna instancja | Kolejne uruchomienie aktywuje działającego Øriona zamiast otwierać następny proces aplikacji | Wbudowane |
 | Autoprezentacja | Bezpieczny pokaz najważniejszych obszarów aplikacji bez wykonywania zmian | Wbudowane |
