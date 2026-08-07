@@ -6,18 +6,18 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 48](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2048-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.48)
+[![Pobierz Ørion 0.20.0 beta 49](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2049-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.49)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.48)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.49)**
 
-> Najnowsza wersja: **0.20.0 beta 48**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 49**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 48 wprowadza naprawdę osobne rozszerzenia: Ørion zna ich możliwości przed
-instalacją, ale pobiera kod i udostępnia funkcje dopiero po jej rozpoczęciu.
-Pierwsza instalacja nie wymaga restartu. Krótkie odpowiedzi na przypomnienia
-ØrionRhythm, takie jak „wziąłem” lub „oba”, prawidłowo odnoszą się teraz do
-wymienionych celów.
+Beta 49 odzyskuje rozszerzenia zainstalowane przed przejściem na osobne paczki.
+Przy pierwszym uruchomieniu przywraca wcześniejszy wybór z bezpiecznej kopii,
+pobiera aktualne paczki i zachowuje stan włączone/wyłączone. Brak internetu lub
+uszkodzone pobranie nie usuwa już informacji o instalacji — Ørion spróbuje
+ponownie przy następnym uruchomieniu.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
