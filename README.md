@@ -6,17 +6,17 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 50](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2050-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.50)
+[![Pobierz Ørion 0.20.0 beta 51](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2051-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.51)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.50)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.51)**
 
-> Najnowsza wersja: **0.20.0 beta 50**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 51**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 50 naprawia uruchamianie ØrionNotes i ØrionMeet po pobraniu ich osobnych
-paczek. Oba rozszerzenia są teraz gotowe bez restartu, tak jak pozostałe.
-Automatyczna kontrola pakowania sprawdza też współdzielone zależności wszystkich
-rozszerzeń przed kolejnym wydaniem.
+Beta 51 pokazuje bieżący ekran bezpośrednio w rozmowie bez zapisywania pliku i
+rozróżnia prośbę o obraz od prośby o opis. Kolejka działań jest mniejsza i nie
+zasłania czatu, powiadomienia zachowują odstęp od paska przewijania, a codzienny
+tryb „Nie przeszkadzać” można ustawić jako przedział godzinowy.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
