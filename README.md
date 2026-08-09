@@ -6,16 +6,16 @@
 
 ## Pobierz najnowszego Øriona
 
-[![Pobierz Ørion 0.20.0 beta 52](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2052-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.52)
+[![Pobierz Ørion 0.20.0 beta 53](https://img.shields.io/badge/Pobierz-Ørion%200.20.0%20beta%2053-14b8a6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.53)
 
-**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.52)**
+**[Przejdź do wydania i pobierz instalator dla Windows →](https://github.com/DolilDev/Orion/releases/tag/app-v0.20.0-beta.53)**
 
-> Najnowsza wersja: **0.20.0 beta 52**. Poprzednie i techniczne wydania
+> Najnowsza wersja: **0.20.0 beta 53**. Poprzednie i techniczne wydania
 > rozszerzeń pozostają dostępne w pełnym [katalogu Releases](https://github.com/DolilDev/Orion/releases).
 
-Beta 52 poprawia układ centrum powiadomień. Data i godzina pozostają w całości
-widoczne, nawet gdy tytuł jest długi, i zachowują bezpieczny odstęp od pionowego
-paska przewijania.
+Beta 53 synchronizuje rozmowę między komputerem i telefonem, również po utracie
+połączenia. Zrzuty bieżącego ekranu są widoczne na telefonie, a polecenia w rodzaju
+„przypomnij mi o tym” korzystają teraz z treści poprzedniej wiadomości.
 
 Ørion to natywna aplikacja dla Windows, która łączy rozmowę z AI ze sterowaniem
 komputerem, organizacją dnia, lokalną wiedzą i opcjonalnymi rozszerzeniami.
